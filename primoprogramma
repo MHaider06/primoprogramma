@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Il mio sito web</title>
+    <style>
+        /* Aggiungi stili CSS qui per personalizzare il tuo sito web */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        nav a:hover {
+            color: #ddd;
+        }
+        section {
+            padding: 2rem;
+            text-align: center;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Benvenuto nel mio sito web</h1>
+    </header>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Chi Siamo</a>
+        <a href="#">Servizi</a>
+        <a href="#">Contatti</a>
+    </nav>
+    <section>
+        <h2>Titolo della sezione 1</h2>
+        <p>Questa è la sezione 1 del mio sito web. Puoi aggiungere qui il contenuto che desideri.</p>
+    </section>
+    <section>
+        <h2>Titolo della sezione 2</h2>
+        <p>Questa è la sezione 2 del mio sito web. Puoi aggiungere qui il contenuto che desideri.</p>
+    </section>
+    <footer>
+        <p>Copyright &copy; 2023 Il mio sito web. Tutti i diritti riservati.</p>
+    </footer>
+</body>
+</html>
